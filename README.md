@@ -260,7 +260,7 @@ print(me.motto())
 &nbsp;
 [![Portfolio](https://img.shields.io/badge/Portfolio-kannanvsportfolio.netlify.app-38BDAE?style=flat-square&logo=netlify&logoColor=white)](https://kannanvsportfolio.netlify.app)
 &nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-kannanvs002-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/kannanvs002)
+[![GitHub](https://img.shields.io/badge/GitHub-kannanvs07-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/kannanvs002)
 
 </div>
 
