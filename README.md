@@ -1,49 +1,50 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Kannan%20V%20S&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Electronics%20%26%20Communication%20Engineer%20%7C%20AI%20%26%20IoT%20Enthusiast&descAlignY=62&descSize=16"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Kannan%20V%20S&fontSize=42&fontColor=fff&animation=twinkling" alt="Kannan V S banner" />
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Kannan+V+S+%F0%9F%91%8B;ECE+Student+%7C+AI+%26+IoT+Builder;Turning+Hardware+into+Smart+Systems;Vibe+Coding+with+AI+%F0%9F%A4%96%2B%F0%9F%94%A7" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Kannan+V+S+%F0%9F%91%8B;Embedded%2C+IoT%2C+and+AI+Explorer;Building+smart+systems+with+curiosity+%F0%9F%9A%80" alt="Typing intro" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=kannanvs002&label=Profile+Views&color=70a5fd&style=flat-square" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=kannanvs07&label=Profile+Views&color=70a5fd&style=flat-square" alt="Profile Views" />
   &nbsp;
-  <img src="https://img.shields.io/github/followers/kannanvs002?label=Followers&style=flat-square&color=bf91f3&logo=github&logoColor=white" alt="Followers"/>
+  <img src="https://img.shields.io/github/followers/kannanvs07?label=Followers&style=flat-square&color=bf91f3&logo=github&logoColor=white" alt="Followers" />
 </div>
 
 ---
 
 ## 🧑‍💻 About Me
 
-<img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding gif" />
 
 ```python
 class KannanVS:
     def __init__(self):
-        self.name         = "Kannan V S"
-        self.location     = "Madurai, Tamil Nadu 🇮🇳"
-        self.degree       = "B.E. Electronics & Communication Engineering"
-        self.college      = "Velammal College of Engineering & Technology"
-        self.batch        = "2025 – 2029"
+        self.name = "Kannan V S"
+        self.location = "Madurai, Tamil Nadu 🇮🇳"
+        self.degree = "B.E. Electronics & Communication Engineering"
+        self.college = "Velammal College of Engineering & Technology"
+        self.batch = "2025 – 2029"
 
         self.stack = [
-            "Arduino", "IoT Sensors",
-            "Embedded Systems", "AI Tools",
-            "Web Development"
+            "Arduino",
+            "IoT Sensors",
+            "Embedded Systems",
+            "AI Tools",
+            "Web Development",
         ]
 
         self.currently_learning = [
             "Advanced IoT Architectures",
             "AI-Assisted (Vibe) Coding",
             "Python for Embedded Systems",
-            "Smart Agriculture Systems"
+            "Smart Agriculture Systems",
         ]
 
         self.fun_fact = (
-            "I sync RGB LEDs to music beats 🎵💡 "
-            "and built a proximity buzzer that "
-            "my friends call 'the robot watchdog'."
+            "I sync RGB LEDs to music beats 🎵💡 and built a proximity "
+            "buzzer that my friends call 'the robot watchdog'."
         )
 
     def motto(self):
@@ -59,31 +60,31 @@ print(me.motto())
 
 ## 🛠️ Tech Stack & Tools
 
-**⚡ Hardware & Electronics**
+### ⚡ Hardware & Electronics
 
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 ![Sensors](https://img.shields.io/badge/Sensors%20%26%20Actuators-E34F26?style=flat-square&logo=raspberrypi&logoColor=white)
 ![Electronics Prototyping](https://img.shields.io/badge/Electronics%20Prototyping-009639?style=flat-square&logo=atom&logoColor=white)
 
-**🌐 IoT & Embedded Systems**
+### 🌐 IoT & Embedded Systems
 
 ![IoT](https://img.shields.io/badge/IoT%20Systems-0052CC?style=flat-square&logo=internetexplorer&logoColor=white)
 ![Embedded](https://img.shields.io/badge/Embedded%20Systems-003545?style=flat-square&logo=stmicroelectronics&logoColor=white)
 ![Smart Automation](https://img.shields.io/badge/Smart%20Automation-F7931E?style=flat-square&logo=homeassistant&logoColor=white)
 
-**🤖 AI & Emerging Tech**
+### 🤖 AI & Emerging Tech
 
 ![Claude AI](https://img.shields.io/badge/Claude%20AI-CC785C?style=flat-square&logo=anthropic&logoColor=white)
 ![Lovable AI](https://img.shields.io/badge/Lovable%20AI-FF6B6B?style=flat-square&logo=sparkles&logoColor=white)
 ![Vibe Coding](https://img.shields.io/badge/Vibe%20Coding-BF91F3?style=flat-square&logo=openai&logoColor=white)
 
-**🔧 Tools & Platforms**
+### 🔧 Tools & Platforms
 
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Arduino IDE](https://img.shields.io/badge/Arduino%20IDE-00979D?style=flat-square&logo=arduino&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-**🌍 Web Development**
+### 🌍 Web Development
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -94,12 +95,12 @@ print(me.motto())
 ## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/kannanvs002">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=kannanvs002&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" alt="GitHub Stats"/>
+  <a href="https://github.com/kannanvs07">
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=kannanvs07&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&icon_color=bf91f3" alt="GitHub Stats" />
   </a>
   &nbsp;
-  <a href="https://github.com/kannanvs002">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kannanvs002&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" alt="Top Languages"/>
+  <a href="https://github.com/kannanvs07">
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kannanvs07&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9" alt="Top Languages" />
   </a>
 </div>
 
@@ -108,7 +109,7 @@ print(me.motto())
 ## 🔥 Streak Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=kannanvs002&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=kannanvs07&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E" alt="GitHub Streak" />
 </div>
 
 ---
@@ -116,7 +117,7 @@ print(me.motto())
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=kannanvs002&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Contribution Graph"/>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=kannanvs07&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Contribution graph" />
 </div>
 
 ---
@@ -124,7 +125,7 @@ print(me.motto())
 ## 🏆 Trophy Wall
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kannanvs002&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=kannanvs07&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -239,7 +240,7 @@ print(me.motto())
 
 ## 🚀 Currently Learning
 
-```
+```text
 🤖 AI-Assisted Development  →  Claude AI, Lovable AI, Prompt Engineering, Vibe Coding
 🌐 IoT Architectures        →  Sensor Networks, Edge Computing, Smart Systems Design
 🐍 Python                   →  Scripting, Automation, MicroPython for Embedded Boards
@@ -254,13 +255,13 @@ print(me.motto())
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-kannanvs002%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kannanvs002@gmail.com)
+[![Email](https://img.shields.io/badge/Email-kannanvs07%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kannanvs07@gmail.com)
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kannan%20V%20S-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/kannanvs)
 &nbsp;
 [![Portfolio](https://img.shields.io/badge/Portfolio-kannanvsportfolio.netlify.app-38BDAE?style=flat-square&logo=netlify&logoColor=white)](https://kannanvsportfolio.netlify.app)
 &nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-kannanvs07-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/kannanvs002)
+[![GitHub](https://img.shields.io/badge/GitHub-kannanvs07-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/kannanvs07)
 
 </div>
 
@@ -272,4 +273,4 @@ print(me.motto())
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" alt="Footer banner" />
